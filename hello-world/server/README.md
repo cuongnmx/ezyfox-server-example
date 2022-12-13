@@ -7,3 +7,11 @@
 # License
 
 - Apache License, Version 2.0
+
+## Server:
+
+
+## Client:
+1. Setup websocket connection
+2. Create socket when click "Connect to Server" button:
+- 
